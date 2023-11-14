@@ -18,6 +18,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 - Follow the existing code style and formatting guidelines.
 - Write clear, concise, and meaningful commit messages.
 - Ensure your code is well-documented.
+- Ensure the [right versioning](https://semver.org/)
 
 ## Reporting Issues
 
