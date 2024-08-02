@@ -1,7 +1,7 @@
 # Cerberus Technologies
 
 <p align="center">
-    <img src="logo.png" alt="Cerberus Project Logo" width="200" height="200" style="border-radius: 50%;">
+    <img src="logo_colored_bg.png" alt="Cerberus Project Logo" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 Welcome to the Cerberus GitHub repository! 🚀
